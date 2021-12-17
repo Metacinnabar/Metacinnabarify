@@ -1,0 +1,9 @@
+name: 'Metacinnabarify'
+version: '1.0.0'
+main: 'bar.metacinna.MetacinnabarifyPlugin'
+
+commands:
+  metacinnabar:
+    description: Tells the truth
+    usage: /metacinnabar
+    permission: metacinnabarify.honest
